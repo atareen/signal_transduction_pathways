@@ -9,7 +9,7 @@ Repository containing code for computing mutual information in noisy signaling p
 ## Comparison of exact and Laplace approximated conditional probabilities
 ![Figure2](https://raw.github.com/atareen/signal_transduction_pathways/master/results/laplace_approx_comparison_I_0P9.png)
 
-## Conditional probabilities for several volumes. 
+## Maximum mutual information vs. Volume
 ![Figure3](https://raw.github.com/atareen/signal_transduction_pathways/master/results/maxMI_vs_V.png)
 
 ## Conditional probabilities for several volumes. 
